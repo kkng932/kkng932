@@ -5,3 +5,6 @@
 [깃 기초](https://www.yalco.kr/lectures/git-github)
 
 ```
+* VS 단축키
+  * 주석 ctrl + k + c  
+  * 주석 해제 ctrl + k + u  
