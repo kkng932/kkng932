@@ -5,7 +5,7 @@
 [깃 기초](https://www.yalco.kr/lectures/git-github)
 
 ```
-```
+"```"
 ```
 * VS 단축키
   * 주석 ctrl + k + c  
